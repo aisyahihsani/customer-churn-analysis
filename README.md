@@ -1,4 +1,4 @@
-# customer-churn-analysis
+# Custumer Churn Analysis
 Customer churn analysis using Python, SQL, and Tableau with business insights on retention strategies.
 
 ## Overview
